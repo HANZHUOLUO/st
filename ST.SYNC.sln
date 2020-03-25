@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ST.SYNC", "ST.SYNC\ST.SYNC.csproj", "{4C0FB0FA-37A1-417E-8BC3-33CA4AD464D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C0FB0FA-37A1-417E-8BC3-33CA4AD464D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C0FB0FA-37A1-417E-8BC3-33CA4AD464D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C0FB0FA-37A1-417E-8BC3-33CA4AD464D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C0FB0FA-37A1-417E-8BC3-33CA4AD464D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {502E0041-C275-4A34-893F-72D1D5C16B28}
+	EndGlobalSection
+EndGlobal
